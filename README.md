@@ -1,3 +1,16 @@
 # Cica
 
-**BEST DEBUGGING PROCESS EVER**
+**BEST DEBUGGING TOOL EVER**
+
+Usage
+
+```js
+const cica = require('@bencusvox/cica');
+
+cica();
+```
+
+Output
+```txt
+cica
+```
